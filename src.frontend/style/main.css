@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'primaryFont';
+   src:  url('../fonts/Roboto/Roboto-Thin.ttf');
+   font-weight: 600;
+   font-style: normal;
+}
+
+.primaryFont {
+    font-family: 'primaryFont';
+}
+
+.hello {
+    color: red;
+}
